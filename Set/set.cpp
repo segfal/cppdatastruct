@@ -67,5 +67,6 @@ void Set::remove(int n) {
     }
 }
 
+/// Private methods
 
 ///Test
